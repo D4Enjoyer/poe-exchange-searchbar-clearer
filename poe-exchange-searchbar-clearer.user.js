@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         poe-exchange-searchbar-clearer
-// @namespace    http://your.namespace.com
+// @namespace    https://github.com/D4Enjoyer/poe-exchange-searchbar-clearer
 // @version      1.0
 // @description  Clears the search bar when clicking exchange items on Path of Exile Trade Exchange if it contains text
+// @author       A God Gamer with his dear friend ChatGPT
 // @match        https://www.pathofexile.com/trade*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
