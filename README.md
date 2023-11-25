@@ -7,7 +7,7 @@ Clears the search bar when clicking exchange items on Path of Exile Trade Exchan
 <img src="https://i.imgur.com/2T7zObF.gif" alt="Script Demo">
 
 ## How it Works
-This userscript clears the search bar on the Path of Exile Trade Exchange whenever an exchange item is clicked, but only if the search bar contains text. It utilizes JavaScript to manipulate the DOM and trigger an input event to clear the search bar.
+This userscript clears the search bar whenever an exchange item is clicked, but specifically when the search bar contains text. It leverages jQuery for DOM manipulation and to trigger an 'input' event, effectively clearing the search bar.
 
 ## Installation
 1. **Install a Userscript Manager**: Use a browser extension like Tampermonkey.
