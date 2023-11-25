@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Clears the search bar when clicking exchange items on Path of Exile Trade Exchange if it contains text
 // @author       A God Gamer with his dear friend ChatGPT
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=pathofexile.com
 // @match        https://www.pathofexile.com/trade*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
